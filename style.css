@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&family=Italianno&family=Kalam:wght@300;400;700&family=Kanit:wght@200&family=Lato:wght@400;700&family=Merriweather:ital,wght@1,300&family=Oxygen:wght@300&family=Pixelify+Sans:wght@600&family=Satisfy&display=swap');
+/* font-family: 'Pixelify Sans', sans-serif; */
+h1{
+    font-family: 'Pixelify Sans', sans-serif; 
+    font-size: 80px;
+    text-align: center;
+}
+html{
+    background: linear-gradient(45deg ,rgb(197, 14, 14),rgb(42, 42, 84),rgb(6, 85, 6));
+    color: aliceblue;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 0;
+    height: 65vh!important;
+    width: 65vh!important;
+    margin: 20px auto
+}
+.red{
+    background-color: red;
+    border: 5px double rgb(0, 0, 0);
+}
+.blue{
+    background-color: blue;
+    border: 5px double rgb(0, 0, 0);
+}
+.green{
+    background-color: green;
+    border: 5px double rgb(0, 0, 0);
+}
+.yellow{
+    background-color: yellow;
+    border: 5px double rgb(0, 0, 0);
+}
+.box:hover{
+    opacity: 0.7;
+}
+.press{
+    background-color: rgb(77, 71, 71);
+    opacity: 0.6;
+}
+#gif{
+    height: 85px;
+    width: 85px;
+}
