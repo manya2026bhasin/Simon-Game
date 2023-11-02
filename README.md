@@ -1,7 +1,7 @@
-## Simon-Game
-# Object of the Game
+# Simon-Game
+## Object of the Game
 Correctly repeat a longer and longer sequence of signals.
-# Rules
+## Rules
 Press the any key to start. Simon will give the first signal. Repeat the signal by pressing the same color lens.
 Simon will add another signal. Repeat the previous signal and the new one by pressing the same color lenses, in order.
 Simon will add another signal.
